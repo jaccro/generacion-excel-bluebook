@@ -1,0 +1,4 @@
+2021-09-19 00:14:58.878 [DEBUG] [main] com.jaccro.service.ExcelService:45 - Inicio proceso de generación de excel
+2021-09-19 00:15:10.755 [INFO] [main] com.jaccro.service.ExcelService:113 - Fin de proceso de generación de excel. Tiempo de ejecución: 11.0 segundos
+2021-09-19 00:19:19.962 [DEBUG] [main] com.jaccro.service.ExcelService:45 - Inicio proceso de generación de excel
+2021-09-19 00:19:32.510 [INFO] [main] com.jaccro.service.ExcelService:113 - Fin de proceso de generación de excel. Tiempo de ejecución: 12.0 segundos
